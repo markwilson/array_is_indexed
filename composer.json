@@ -1,0 +1,16 @@
+{
+    "name": "markwilson/array-is-indexed",
+    "description": "Check if an array is sequentially indexed",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Mark Wilson",
+            "email": "mark@89allport.co.uk"
+        }
+    ],
+    "minimum-stability": "stable",
+    "autoload": {
+        "files": ["src/array_is_indexed.php"]
+    }
+}
